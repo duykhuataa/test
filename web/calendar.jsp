@@ -10,6 +10,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>Calendar ${month}/${year}</title>
   <%
+  // da sua fpt
     Teacher teacher = (Teacher) request.getSession().getAttribute("teacher"); 
 ;;;;;;;;;;;;;
   %>
