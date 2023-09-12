@@ -11,6 +11,7 @@
   <title>Calendar ${month}/${year}</title>
   <%
     Teacher teacher = (Teacher) request.getSession().getAttribute("teacher"); 
+;;;;;;;;;;;;;
   %>
 </head>
 <body>
